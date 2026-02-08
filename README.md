@@ -88,18 +88,6 @@ AgriScale can be used by:
 
 ---
 
-## 🔗 Live Demo
-
-👉 **Demo URL:** *(Add your Lovable website link here)*
-
----
-
-## 📸 Screenshots
-
-Screenshots of the platform UI are available in the `/screenshots` folder.
-
----
-
 ## 📌 Future Enhancements
 
 - Integration with real-time weather APIs
